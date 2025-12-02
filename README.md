@@ -6,4 +6,5 @@
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x] Push your progress to GitHub!
 
-<img src="https://i.imgur.com/ikHO0e2.gif" width="200" height="400" />
+<img src="[https://i.imgur.com/ikHO0e2.gif](https://github.com/cleremybenoni223366-cell/Monprojet2/blob/main/Screen_recording_20251202_161515-ezgif.com-video-to-gif-converter.gif)" width="200" height="400" />
+
